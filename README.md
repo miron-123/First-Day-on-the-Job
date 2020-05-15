@@ -12,4 +12,4 @@ union all;
 select C.id, V.id;
 from dealer stock;
 as stocklist;
-order by;
+order by
